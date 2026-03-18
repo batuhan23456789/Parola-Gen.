@@ -1,0 +1,2 @@
+# Parola-Gen.
+parola oluşturur
